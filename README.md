@@ -1,1 +1,1 @@
-# Bootcamp
+# Bootcamp on interested research directions
