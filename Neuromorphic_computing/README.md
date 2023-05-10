@@ -26,12 +26,13 @@ Install [UnarySim](https://github.com/diwu1990/UnarySim)
    - Try out [this](https://github.com/Intelligent-Computing-Lab-Yale/Rate-vs-Direct)
 2. [Training with back-propagation](https://arxiv.org/abs/1901.09948)
 3. [Convert DNN to SNN](https://ieeexplore.ieee.org/document/9157578)
-4. ...
+4. [Spike-timing-dependent plasticity](https://compneuro.neuromatch.io/tutorials/W2D3_BiologicalNeuronModels/student/W2D3_Tutorial4.html)
 
 **Questions**
 1. Pros and cons between training and convert
 2. Pros and cons between directed coding and rate coding
 3. Pros and cons between rate and temporal coding
+4. Pros and cons between back-propagation and STDP for training
 
 
 ## Hardware
@@ -50,4 +51,5 @@ Install [UnarySim](https://github.com/diwu1990/UnarySim)
 ## Revision history
 | Date | Revision | Name |
 |---|---|---|
-| 05/10/2023 | First commit. Add overview of concept, application, algorithm, and hardware. | Di Wu |
+| 05/10/2023 | First commit. Add overview of concept, application, algorithm, and hardware | Di Wu |
+| 05/10/2023 | Add STDP | Di Wu |
