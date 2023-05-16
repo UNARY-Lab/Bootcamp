@@ -1,7 +1,11 @@
 # Quantum Error Correction
 
+## Error source
+
+## Error model
+
 ## Code
-1. Surface code
+1. surface codes
 2. ...
 
 ## Decoding Algorithm
@@ -12,7 +16,9 @@
 ## Architecture
 
 
+
 ## Revision history
 | Date | Revision | Name |
 |---|---|---|
 | 05/13/2023 | First commit. Add overview of code, algorithm, and Architecture | Di Wu |
+| 05/15/2023 | Add items to survey | Di Wu |
