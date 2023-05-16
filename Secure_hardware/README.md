@@ -10,6 +10,12 @@
 4. Federated learning
 5. ...
 
+
+## Application
+1. [Zero-knowledge proof](https://medium.com/@ingonyama/unleashing-secure-ai-4c6fd9c8f910)
+2. ...
+
+
 ## Architecture
 1. [Zero-knowledge proof](https://ieeexplore.ieee.org/document/9499783), [research focus](https://www.ingonyama.com/careers)
 2. ...
