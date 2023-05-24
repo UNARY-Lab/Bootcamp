@@ -5,6 +5,7 @@ Install [UnarySim](https://github.com/diwu1990/UnarySim)
 
 ## Reading
 [TRAINING SPIKING NEURAL NETWORKS USING LESSONS FROM DEEP LEARNING](https://arxiv.org/pdf/2109.12894.pdf)
+
 [Hardware list](https://github.com/fabrizio-ottati/awesome-neuromorphic-hw)
 
 ## Concept
