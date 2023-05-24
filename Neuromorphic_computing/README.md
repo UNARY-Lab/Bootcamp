@@ -3,6 +3,10 @@
 ## Prerequisites
 Install [UnarySim](https://github.com/diwu1990/UnarySim)
 
+## Reading
+[TRAINING SPIKING NEURAL NETWORKS USING LESSONS FROM DEEP LEARNING](https://arxiv.org/pdf/2109.12894.pdf)
+
+
 ## Concept
 1. Data: spike
    - [rate coding](https://ieeexplore.ieee.org/document/9139000) Section II-A
@@ -53,3 +57,4 @@ Install [UnarySim](https://github.com/diwu1990/UnarySim)
 |---|---|---|
 | 05/10/2023 | First commit. Add overview of concept, application, algorithm, and hardware | Di Wu |
 | 05/10/2023 | Add STDP | Di Wu |
+| 05/24/2023 | Add training tutorial from UCSC | Di Wu |
