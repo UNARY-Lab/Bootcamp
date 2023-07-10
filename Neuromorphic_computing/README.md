@@ -13,6 +13,7 @@ Install [UnarySim](https://github.com/diwu1990/UnarySim)
    - [rate coding](https://ieeexplore.ieee.org/document/9139000) Section II-A
    - [temporal coding](https://ieeexplore.ieee.org/document/9139000) Section II-B
    - [delta modulation](https://snntorch.readthedocs.io/en/latest/tutorials/tutorial_1.html#delta-modulation)
+   - [More](https://dl.acm.org/doi/abs/10.1145/3546790.3546803)
 2. Data generation: [comparison](https://github.com/diwu1990/UnarySim/blob/52683a42e210004531f53fa362a9dd1d900b6546/stream/gen.py#L147)
    - Try out [an example](https://github.com/diwu1990/UnarySim/blob/main/test/stream/test_stream_bsgen.py)
 
@@ -59,3 +60,4 @@ Install [UnarySim](https://github.com/diwu1990/UnarySim)
 | 05/10/2023 | First commit. Add overview of concept, application, algorithm, and hardware | Di Wu |
 | 05/10/2023 | Add STDP | Di Wu |
 | 05/24/2023 | Add training tutorial from UCSC | Di Wu |
+| 07/10/2023 | Add spike encoding paper | Di Wu |
