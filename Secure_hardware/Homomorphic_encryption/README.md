@@ -1,8 +1,8 @@
 # Schemes
 1. [BGV](https://dl.acm.org/doi/10.1145/2090236.2090262)
 - [Resource](https://www.inferati.com/blog/fhe-schemes-bgv#sec-keygen)
-3. CKKS
-4. TFHE
+2. CKKS
+3. TFHE
 
 
 # Bootstrapping
@@ -12,8 +12,6 @@
 
 
 # Concept
-- Slot
-- Precision
 
 # Architecture
 
