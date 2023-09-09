@@ -27,6 +27,6 @@ This file is maintained by faculties from ECE department at University of Centra
 
 | Scheme | Contact|
 | ------ | ------ |
-| BGV    | [Di Wu](www.unarylab.com) |
-| CKKS   | [Mohammad Sazadur Rahman](www.sazadur.github.io) |
-| TFHE   | [Xin Xin](www.xinx2013.github.io) |
+| BGV    | [Di Wu](https://www.unarylab.com) |
+| CKKS   | [Mohammad Sazadur Rahman](https://www.sazadur.github.io) |
+| TFHE   | [Xin Xin](https://www.xinx2013.github.io) |
