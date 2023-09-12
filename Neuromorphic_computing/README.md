@@ -30,7 +30,7 @@ Install [UnarySim](https://github.com/diwu1990/UnarySim)
 ## Algorithm
 1. A full example of neuromorphic computing training pipeline
    - Try out [this](https://github.com/Intelligent-Computing-Lab-Yale/Rate-vs-Direct)
-2. [Training with back-propagation](https://arxiv.org/abs/1901.09948)
+2. [Training with back-propagation](https://arxiv.org/abs/1901.09948) [[Surrogate gradient visualization](https://www.frontiersin.org/articles/10.3389/fnins.2018.00331/full)]
 3. [Convert DNN to SNN](https://ieeexplore.ieee.org/document/9157578)
 4. [Spike-timing-dependent plasticity](https://compneuro.neuromatch.io/tutorials/W2D3_BiologicalNeuronModels/student/W2D3_Tutorial4.html)
 
@@ -61,3 +61,4 @@ Install [UnarySim](https://github.com/diwu1990/UnarySim)
 | 05/10/2023 | Add STDP | Di Wu |
 | 05/24/2023 | Add training tutorial from UCSC | Di Wu |
 | 07/10/2023 | Add spike encoding paper | Di Wu |
+| 09/12/2023 | Add visualization for surrograt gradient | Di Wu |
