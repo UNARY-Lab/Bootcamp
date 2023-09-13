@@ -1,4 +1,4 @@
-# Schemes
+# Scheme
 1. [BGV](https://dl.acm.org/doi/10.1145/2090236.2090262)
 - [Resource](https://www.inferati.com/blog/fhe-schemes-bgv#sec-keygen)
 2. CKKS
