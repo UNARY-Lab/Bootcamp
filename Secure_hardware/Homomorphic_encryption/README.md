@@ -4,9 +4,15 @@
 
 2. CKKS - https://blog.openmined.org/ckks-explained-part-1-simple-encoding-and-decoding/
   https://blog.openmined.org/ckks-explained-part-1-simple-encoding-and-decoding/
+
+BFV, CKKS, TFHE: Which One is the Best for a Secure Neural Network Evaluation in the Cloud - https://dl.acm.org/doi/abs/10.1007/978-3-030-81645-2_16
+
+https://eprint.iacr.org/2018/153.pdf
   
 3. TFHE - https://www.youtube.com/watch?v=npoHSR6-oRw&t=5610s
 https://www.youtube.com/watch?v=487AjvFW1lk
+
+
 
 # Bootstrapping
 [Demystifying Bootstrapping in Fully Homomorphic Encryption](https://eprint.iacr.org/2023/149)
