@@ -2,8 +2,7 @@
 1. [BGV](https://dl.acm.org/doi/10.1145/2090236.2090262)
 - [Resource](https://www.inferati.com/blog/fhe-schemes-bgv#sec-keygen)
 2. CKKS
-3. TFHE
-
+3. TFHE - https://www.youtube.com/watch?v=npoHSR6-oRw&t=5610s
 
 # Bootstrapping
 [Demystifying Bootstrapping in Fully Homomorphic Encryption](https://eprint.iacr.org/2023/149)
