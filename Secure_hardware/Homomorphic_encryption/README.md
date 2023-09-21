@@ -21,6 +21,7 @@ https://www.youtube.com/watch?v=487AjvFW1lk
 
 
 # Concept
+1. Number theoretic transform ([NTT](https://arxiv.org/abs/2306.12519))
 
 # Architecture
 
