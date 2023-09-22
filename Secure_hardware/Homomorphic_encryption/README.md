@@ -13,15 +13,13 @@ https://eprint.iacr.org/2018/153.pdf
 https://www.youtube.com/watch?v=487AjvFW1lk
 
 
-
-# Bootstrapping
-[Demystifying Bootstrapping in Fully Homomorphic Encryption](https://eprint.iacr.org/2023/149)
-
 # Framework
 
 
 # Concept
 1. Number theoretic transform ([NTT](https://arxiv.org/abs/2306.12519))
+2. [Bootstrapping](https://eprint.iacr.org/2023/149)
+3. [Programmable bootstrapping](https://whitepaper.zama.ai/)
 
 # Architecture
 
