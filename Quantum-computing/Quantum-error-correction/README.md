@@ -1,4 +1,4 @@
-# Quantum Error Correction
+# Quantum error correction
 
 ## Error source
 

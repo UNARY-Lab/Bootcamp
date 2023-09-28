@@ -1,4 +1,4 @@
-# Bootcamp on Neuromorphic computing (Spiking Neural Network)
+# Bootcamp on neuromorphic computing (Spiking Neural Network)
 
 ## Prerequisites
 Install [UnarySim](https://github.com/diwu1990/UnarySim)
