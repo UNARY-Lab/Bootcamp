@@ -48,7 +48,7 @@ Install [UnarySim](https://github.com/diwu1990/UnarySim)
 4. [SpiNNaker2 (2021)](https://arxiv.org/abs/2103.08392)
 5. [BrainScaleS2 (2022)](https://www.frontiersin.org/articles/10.3389/fnins.2022.795876/full)
 6. [An analytical cost model](https://ieeexplore.ieee.org/document/9914608)
-7. ...
+7. [Temporal Neural Networks](https://ieeexplore.ieee.org/document/9516717)
 
 **Questions**
 1. Summarize the differences among the above hardware.
