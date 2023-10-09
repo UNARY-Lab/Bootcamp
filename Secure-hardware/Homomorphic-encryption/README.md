@@ -27,7 +27,11 @@ https://www.youtube.com/watch?v=487AjvFW1lk
 3. [BGV bootstrapping](https://eprint.iacr.org/2022/1363)
 4. [TFHE bootstrapping](https://whitepaper.zama.ai/)
 
+
 # Architecture
+|Design|Scope|Venue|Year|
+|---|---|---|---|
+|[BASALISC](https://eprint.iacr.org/2022/657)|BGV|TCHES|2023|
 
 
 # Application
