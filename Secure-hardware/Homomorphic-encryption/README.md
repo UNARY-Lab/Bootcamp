@@ -24,7 +24,8 @@ https://www.youtube.com/watch?v=487AjvFW1lk
 # Concept
 1. Number theoretic transform ([NTT](https://arxiv.org/abs/2306.12519))
 2. [Bootstrapping](https://eprint.iacr.org/2023/149)
-3. [Programmable bootstrapping](https://whitepaper.zama.ai/)
+3. [BGV bootstrapping](https://eprint.iacr.org/2022/1363)
+4. [TFHE bootstrapping](https://whitepaper.zama.ai/)
 
 # Architecture
 
