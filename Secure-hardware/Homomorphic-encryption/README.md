@@ -30,9 +30,10 @@ https://www.youtube.com/watch?v=487AjvFW1lk
 5. [Characterization](https://arxiv.org/abs/2012.01968)
 
 
-## [Bootstrapping](https://eprint.iacr.org/2023/149)
-1. [BGV bootstrapping](https://eprint.iacr.org/2022/1363)
-2. [TFHE bootstrapping](https://whitepaper.zama.ai/)
+## Bootstrapping
+1. [Overview](https://eprint.iacr.org/2023/149)
+2. [BGV bootstrapping](https://eprint.iacr.org/2022/1363)
+3. [TFHE bootstrapping](https://whitepaper.zama.ai/)
 
 
 # Architecture
