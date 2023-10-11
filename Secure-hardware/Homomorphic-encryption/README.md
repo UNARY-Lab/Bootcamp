@@ -28,6 +28,7 @@ https://www.youtube.com/watch?v=487AjvFW1lk
 3. [Review 3](https://ieeexplore.ieee.org/document/10177902)
 4. [Code example](https://www.nayuki.io/page/number-theoretic-transform-integer-dft)
 5. [Characterization](https://arxiv.org/abs/2012.01968)
+6. [Video](https://www.youtube.com/watch?v=KIg2B0Ja02c)
 
 
 ## Bootstrapping
