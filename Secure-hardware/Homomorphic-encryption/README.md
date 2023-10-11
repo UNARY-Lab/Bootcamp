@@ -22,10 +22,17 @@ https://www.youtube.com/watch?v=487AjvFW1lk
 
 
 # Concept
-1. Number theoretic transform ([NTT](https://arxiv.org/abs/2306.12519))
-2. [Bootstrapping](https://eprint.iacr.org/2023/149)
-3. [BGV bootstrapping](https://eprint.iacr.org/2022/1363)
-4. [TFHE bootstrapping](https://whitepaper.zama.ai/)
+## Number theoretic transform (NTT)
+1. [Review 1](https://arxiv.org/abs/2306.12519)
+2. [Review 2](https://arxiv.org/abs/2211.13546)
+3. [Review 3](https://ieeexplore.ieee.org/document/10177902)
+4. [Code example](https://www.nayuki.io/page/number-theoretic-transform-integer-dft)
+5. [Characterization](https://arxiv.org/abs/2012.01968)
+
+
+## [Bootstrapping](https://eprint.iacr.org/2023/149)
+1. [BGV bootstrapping](https://eprint.iacr.org/2022/1363)
+2. [TFHE bootstrapping](https://whitepaper.zama.ai/)
 
 
 # Architecture
