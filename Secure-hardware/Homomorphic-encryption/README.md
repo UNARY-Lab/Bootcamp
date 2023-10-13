@@ -29,6 +29,7 @@ https://www.youtube.com/watch?v=487AjvFW1lk
 4. [Code example](https://www.nayuki.io/page/number-theoretic-transform-integer-dft)
 5. [Characterization](https://arxiv.org/abs/2012.01968)
 6. [Video](https://www.youtube.com/watch?v=KIg2B0Ja02c)
+7. [Software implementation](https://eprint.iacr.org/2018/039)
 
 
 ## Bootstrapping
