@@ -42,6 +42,8 @@ https://www.youtube.com/watch?v=487AjvFW1lk
 |Design|Scope|Venue|Year|
 |---|---|---|---|
 |[BASALISC](https://eprint.iacr.org/2022/657)|BGV|TCHES|2023|
+|[Survey](https://ieeexplore.ieee.org/document/10177902)||NTT|IEEE Access|2023|
+|[AVX2 inst](https://eprint.iacr.org/2018/039)|NTT|Preprint|2018|
 
 
 # Application
