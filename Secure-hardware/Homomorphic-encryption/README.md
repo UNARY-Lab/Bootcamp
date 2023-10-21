@@ -1,17 +1,14 @@
 # Scheme
-1. [BGV](https://dl.acm.org/doi/10.1145/2090236.2090262)
-- [Resource](https://www.inferati.com/blog/fhe-schemes-bgv#sec-keygen)
+1. [BGV](https://dl.acm.org/doi/10.1145/2090236.2090262) - [Resource](https://www.inferati.com/blog/fhe-schemes-bgv#sec-keygen)
 
-2. CKKS - https://blog.openmined.org/ckks-explained-part-1-simple-encoding-and-decoding/
-  https://blog.openmined.org/ckks-explained-part-1-simple-encoding-and-decoding/
-
-BFV, CKKS, TFHE: Which One is the Best for a Secure Neural Network Evaluation in the Cloud - https://dl.acm.org/doi/abs/10.1007/978-3-030-81645-2_16
-
-https://eprint.iacr.org/2018/153.pdf
+2. [CKKS](https://eprint.iacr.org/2016/421) - [Resource](https://blog.openmined.org/ckks-explained-part-1-simple-encoding-and-decoding/)
   
-3. TFHE - https://www.youtube.com/watch?v=npoHSR6-oRw&t=5610s
-https://www.youtube.com/watch?v=487AjvFW1lk
+1. [TFHE](https://eprint.iacr.org/2018/421) - [Resource](https://www.youtube.com/watch?v=npoHSR6-oRw&t=5610s)
 
+
+[A historical view](https://www.youtube.com/watch?v=487AjvFW1lk)
+
+[A comparison](https://dl.acm.org/doi/abs/10.1007/978-3-030-81645-2_16)
 
 # Framework
 1. [Concrete](https://github.com/zama-ai/concrete)
@@ -42,12 +39,16 @@ https://www.youtube.com/watch?v=487AjvFW1lk
 |Design|Scope|Venue|Year|
 |---|---|---|---|
 |[BASALISC](https://eprint.iacr.org/2022/657)|BGV|TCHES|2023|
-|[Survey](https://ieeexplore.ieee.org/document/10177902)||NTT|IEEE Access|2023|
+|[Survey](https://ieeexplore.ieee.org/document/10177902)|NTT|IEEE Access|2023|
+|[F1](https://arxiv.org/abs/2109.05371)|FHE/NTT|MICRO|2021|
+|[PipeZK](https://ieeexplore.ieee.org/document/9499783)|NTT/MSM|ISCA|2021|
 |[AVX2 inst](https://eprint.iacr.org/2018/039)|NTT|Preprint|2018|
+|[HEAX](https://dl.acm.org/doi/pdf/10.1145/3373376.3378523)|NTT|ASPLOS|2020|
 
 
 # Application
 [A summary](https://dualitytech.com/blog/bootstrapping-in-fully-homomorphic-encryption-fhe/)
+
 
 # Benchmark
 1. [VIP-Bench](https://ieeexplore.ieee.org/document/9604804)
