@@ -4,7 +4,7 @@
 
 
 ## Algorithm
-1. [Homomorphic encryption](Homomorphic-encryption/README.md)
+1. [Homomorphic encryption](Homomorphic-encryption/)
 2. Zero-knowledge proof
 3. Multi-party computation
 4. Federated learning
