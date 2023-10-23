@@ -7,6 +7,8 @@ Transformer
 3. [Tutorial](https://e2eml.school/transformers.html)
 
 ## Optimization
+[General reading](https://towardsdatascience.com/demystifying-efficient-self-attention-b3de61b9b0fb)
+
 KV cache
 1. [Tutorial 1](https://lilianweng.github.io/posts/2023-01-10-inference-optimization)
 2. [Tutorial 2](https://kipp.ly/transformer-inference-arithmetic)
