@@ -55,8 +55,9 @@ Install [UnarySim](https://github.com/diwu1990/UnarySim)
 1. Summarize the differences among the above hardware.
 
 ## Task
-1. Write a LIF neuron with a linear layer in C++, and draw a conceptual diagram of the neuron.
-2. Repeat the above for a LIF neuron with a conv layer.
+1. Write a LIF neuron with a linear layer in C++, that takes multiple time steps and inputs.
+2. Draw a conceptual diagram of the neuron, to describe the mechanism of the linear layer, L, I and F.
+3. Repeat 1-2 for a LIF neuron with a conv layer.
 
 ## Revision history
 | Date | Revision | Name |
