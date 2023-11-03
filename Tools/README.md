@@ -23,7 +23,7 @@
 ## Profiling
 | Tool | Scope |
 |---|---|
-| [perf-tools](https://github.com/brendangregg/perf-tools) | Linux perf and ftrace |
+| [perf-tools](https://github.com/brendangregg/perf-tools) | [Linux perf and ftrace](https://phoenixnap.com/kb/linux-perf) |
 | [Pin](https://www.intel.com/content/www/us/en/developer/articles/tool/pin-a-dynamic-binary-instrumentation-tool.html) | dynamic program analysis |
 | [Flame Graphs](https://www.brendangregg.com/flamegraphs.html) | visualization |
 
