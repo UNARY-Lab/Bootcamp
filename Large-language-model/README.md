@@ -10,11 +10,12 @@ Transformer
 [General reading](https://towardsdatascience.com/demystifying-efficient-self-attention-b3de61b9b0fb)
 
 KV cache
-1. [Tutorial 1](https://lilianweng.github.io/posts/2023-01-10-inference-optimization)
-2. [Tutorial 2](https://kipp.ly/transformer-inference-arithmetic)
-3. [Tutorial 3](https://www.dipkumar.dev/becoming-the-unbeatable/posts/gpt-kvcache)
-4. [Paper 1](https://arxiv.org/abs/2303.06865)
-5. [Paper 2](https://arxiv.org/abs/2309.06180)
+1. [Tutorial 1](https://medium.com/@joaolages/kv-caching-explained-276520203249)
+2. [Tutorial 2](https://lilianweng.github.io/posts/2023-01-10-inference-optimization)
+3. [Tutorial 3](https://kipp.ly/transformer-inference-arithmetic)
+4. [Tutorial 4](https://www.dipkumar.dev/becoming-the-unbeatable/posts/gpt-kvcache)
+5. [Paper 1](https://arxiv.org/abs/2303.06865)
+6. [Paper 2](https://arxiv.org/abs/2309.06180)
 
 Weight only quantization
 1. [Tutorial](https://medium.com/intel-analytics-software/effective-weight-only-quantization-for-large-language-models-with-intel-neural-compressor-39cbcb199144)
