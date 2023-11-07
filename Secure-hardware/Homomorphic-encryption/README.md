@@ -27,6 +27,8 @@
 5. [Characterization](https://arxiv.org/abs/2012.01968)
 6. [Video](https://www.youtube.com/watch?v=KIg2B0Ja02c)
 7. [Software implementation](https://eprint.iacr.org/2018/039)
+8. [Paper 1](https://eprint.iacr.org/2021/563)
+9. [Paper 2](https://eprint.iacr.org/2016/504)
 
 
 ## Bootstrapping
@@ -44,6 +46,7 @@
 |[PipeZK](https://ieeexplore.ieee.org/document/9499783)|NTT/MSM|ISCA|2021|
 |[AVX2 inst](https://eprint.iacr.org/2018/039)|NTT|Preprint|2018|
 |[HEAX](https://dl.acm.org/doi/pdf/10.1145/3373376.3378523)|NTT|ASPLOS|2020|
+|[BP-NTT](https://ieeexplore.ieee.org/document/10247691)|NTT|DAC|2023|
 
 
 # Application
