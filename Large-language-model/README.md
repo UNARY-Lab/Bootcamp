@@ -21,6 +21,8 @@ Weight only quantization
 1. [Tutorial](https://medium.com/intel-analytics-software/effective-weight-only-quantization-for-large-language-models-with-intel-neural-compressor-39cbcb199144)
 2. [Paper 1](https://arxiv.org/abs/2308.09723)
 3. [Paper 2](https://arxiv.org/abs/2306.00978)
+4. [Code 1](https://github.com/casper-hansen/AutoAWQ)
+5. [Code 2](https://github.com/jerry-chee/QuIP)
 
 ## Hardware
 [Survey](https://arxiv.org/abs/2302.14017)
