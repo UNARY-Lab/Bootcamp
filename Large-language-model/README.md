@@ -5,6 +5,7 @@ Transformer
 1. [Paper](https://arxiv.org/pdf/2207.09238.pdf)
 2. [Blog](https://towardsdatascience.com/attention-is-all-you-need-discovering-the-transformer-paper-73e5ff5e0634)
 3. [Tutorial](https://e2eml.school/transformers.html)
+4. [Blogger](https://jalammar.github.io/illustrated-transformer/)
 
 ## Optimization
 [General reading](https://towardsdatascience.com/demystifying-efficient-self-attention-b3de61b9b0fb)
