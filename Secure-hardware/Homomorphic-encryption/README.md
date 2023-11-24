@@ -37,6 +37,11 @@
 3. [TFHE bootstrapping](https://whitepaper.zama.ai/)
 
 
+## Scheme switching
+1. [BGGJ19](https://hal.science/hal-03228168)
+2. [OpenFHE support](https://openfhe-development.readthedocs.io/en/latest/)
+
+
 # Research
 |Design|Scope|Venue|Year|
 |---|---|---|---|
