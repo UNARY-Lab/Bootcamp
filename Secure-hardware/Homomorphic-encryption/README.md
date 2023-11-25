@@ -27,6 +27,8 @@
 5. [Characterization](https://arxiv.org/abs/2012.01968)
 6. [Video](https://www.youtube.com/watch?v=KIg2B0Ja02c)
 7. [Software implementation](https://eprint.iacr.org/2018/039)
+8. [Paper 1](https://eprint.iacr.org/2021/563)
+9. [Paper 2](https://eprint.iacr.org/2016/504)
 
 
 ## Bootstrapping
@@ -35,7 +37,12 @@
 3. [TFHE bootstrapping](https://whitepaper.zama.ai/)
 
 
-# Architecture
+## Scheme switching
+1. [BGGJ19](https://hal.science/hal-03228168)
+2. [OpenFHE support](https://openfhe-development.readthedocs.io/en/latest/)
+
+
+# Research
 |Design|Scope|Venue|Year|
 |---|---|---|---|
 |[BASALISC](https://eprint.iacr.org/2022/657)|BGV|TCHES|2023|
@@ -44,7 +51,12 @@
 |[PipeZK](https://ieeexplore.ieee.org/document/9499783)|NTT/MSM|ISCA|2021|
 |[AVX2 inst](https://eprint.iacr.org/2018/039)|NTT|Preprint|2018|
 |[HEAX](https://dl.acm.org/doi/pdf/10.1145/3373376.3378523)|NTT|ASPLOS|2020|
-
+|[BTS](https://dl.acm.org/doi/abs/10.1145/3470496.3527415)|FHE|ISCA|2022|
+|[MAD](https://bu-icsg.github.io/publications/2023/Agrawal_MICRO_2023.pdf)|FHE|MICRO|2023|
+|[BP-NTT](https://ieeexplore.ieee.org/document/10247691)|NTT|DAC|2023|
+|[Survey](https://arxiv.org/abs/2303.10877)|Acc|arXiv|2023|
+|[E3](https://eprint.iacr.org/2018/1013)|Compiler|arXiv|2018|
+|[EVA](https://arxiv.org/abs/1912.11951)|Compiler|PLDI|2020|
 
 # Application
 [A summary](https://dualitytech.com/blog/bootstrapping-in-fully-homomorphic-encryption-fhe/)
