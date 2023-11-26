@@ -72,6 +72,7 @@
 # Security measurement and metric
 1. https://dl.acm.org/doi/10.1145/3297858.3304074
 2. https://eprint.iacr.org/2022/204
+3. [Tool to estimate LWE instances](https://github.com/malb/lattice-estimator)
 
 
 
