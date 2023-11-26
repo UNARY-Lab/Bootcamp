@@ -73,6 +73,8 @@
 1. https://dl.acm.org/doi/10.1145/3297858.3304074
 2. https://eprint.iacr.org/2022/204
 3. [Tool to estimate LWE instances](https://github.com/malb/lattice-estimator)
+4. [HE standard (check Table 1)](http://homomorphicencryption.org/wp-content/uploads/2018/11/HomomorphicEncryptionStandardv1.1.pdf)
+5. [Paper on LWE Estimation](https://eprint.iacr.org/2015/046.pdf)
 
 
 
@@ -82,5 +84,5 @@ This file is maintained by faculties from ECE department at University of Centra
 | Scheme | Contact|
 | ------ | ------ |
 | BGV    | [Di Wu](https://www.unarylab.com) |
-| CKKS   | [Mohammad Sazadur Rahman](https://sazadur.github.io/) |
+| CKKS   | [Sazadur Rahman](https://sazadur.github.io/) |
 | TFHE   | [Xin Xin](https://xinx2013.github.io/) |
