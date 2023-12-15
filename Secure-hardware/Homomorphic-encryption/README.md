@@ -75,6 +75,7 @@
 3. [Tool to estimate LWE instances](https://github.com/malb/lattice-estimator)
 4. [HE standard (check Table 1)](http://homomorphicencryption.org/wp-content/uploads/2018/11/HomomorphicEncryptionStandardv1.1.pdf)
 5. [Paper on LWE Estimation](https://eprint.iacr.org/2015/046.pdf)
+6. [Estimating the Security of HE](https://www.zama.ai/post/estimating-the-security-of-homomorphic-schemes)
 
 
 
