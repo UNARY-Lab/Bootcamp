@@ -57,6 +57,7 @@
 |[Survey](https://arxiv.org/abs/2303.10877)|Acc|arXiv|2023|
 |[E3](https://eprint.iacr.org/2018/1013)|Compiler|arXiv|2018|
 |[EVA](https://arxiv.org/abs/1912.11951)|Compiler|PLDI|2020|
+|[HElium](https://arxiv.org/abs/2312.14250)|Compiler|arXiv|2023|
 
 # Application
 [A summary](https://dualitytech.com/blog/bootstrapping-in-fully-homomorphic-encryption-fhe/)
