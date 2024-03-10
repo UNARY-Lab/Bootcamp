@@ -18,6 +18,10 @@ KV cache
 4. [Tutorial 4](https://www.dipkumar.dev/becoming-the-unbeatable/posts/gpt-kvcache)
 5. [Paper 1](https://arxiv.org/abs/2303.06865)
 6. [Paper 2](https://arxiv.org/abs/2309.06180)
+   
+Self-attention mask
+1. [Tutorial 1](https://gmongaras.medium.com/how-do-self-attention-masks-work-72ed9382510f)
+2. [Code 1](https://github.com/facebookresearch/llama/blob/main/llama/model.py#L300)
 
 Weight only quantization
 1. [Tutorial](https://medium.com/intel-analytics-software/effective-weight-only-quantization-for-large-language-models-with-intel-neural-compressor-39cbcb199144)
