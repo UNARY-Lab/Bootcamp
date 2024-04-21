@@ -10,6 +10,7 @@ Transformer
 
 ## Optimization
 [General reading](https://towardsdatascience.com/demystifying-efficient-self-attention-b3de61b9b0fb)
+[Good practice](https://arxiv.org/abs/2211.05102)
 
 KV cache
 1. [Tutorial 1](https://medium.com/@joaolages/kv-caching-explained-276520203249)
