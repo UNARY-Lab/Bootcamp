@@ -1,13 +1,15 @@
 # Scheme
+Leveled/word-level schemes:
 1. [BGV](https://dl.acm.org/doi/10.1145/2090236.2090262) - [Resource](https://www.inferati.com/blog/fhe-schemes-bgv#sec-keygen)
 
 2. BFV: [paper1](https://eprint.iacr.org/2012/078) / [paper2](https://eprint.iacr.org/2012/144)
 
 3. [CKKS](https://eprint.iacr.org/2016/421) - [Resource](https://blog.openmined.org/ckks-explained-part-1-simple-encoding-and-decoding/)
-  
-4. [TFHE](https://eprint.iacr.org/2018/421) - [Resource](https://www.youtube.com/watch?v=npoHSR6-oRw&t=5610s)
 
-5. FHEW: [paper1](https://eprint.iacr.org/2014/816) / [paper2](https://eprint.iacr.org/2022/198)
+Fast bootstrapping/bit-level schemes:
+1. [TFHE](https://eprint.iacr.org/2018/421) - [Resource](https://www.youtube.com/watch?v=npoHSR6-oRw&t=5610s)
+
+2. FHEW: [paper1](https://eprint.iacr.org/2014/816) / [paper2](https://eprint.iacr.org/2022/198)
 
 
 [A historical view](https://www.youtube.com/watch?v=487AjvFW1lk)
