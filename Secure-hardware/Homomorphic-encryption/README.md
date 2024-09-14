@@ -47,6 +47,13 @@ Fast bootstrapping/bit-level schemes:
 1. [BGGJ19](https://hal.science/hal-03228168)
 2. [OpenFHE support](https://openfhe-development.readthedocs.io/en/latest/)
 
+## Other common operations
+1. [BConv](https://dl.acm.org/doi/abs/10.1007/978-3-030-10970-7_16): full-RNS version of CKKS
+2. [ModUp](https://dl.acm.org/doi/abs/10.1007/978-3-030-10970-7_16)
+3. [ModDown](https://dl.acm.org/doi/abs/10.1007/978-3-030-10970-7_16)
+4. [keyswitching](https://dl.acm.org/doi/10.1007/978-3-030-40186-3_16): CKKS
+5. [Decomp](https://dl.acm.org/doi/10.1007/978-3-030-40186-3_16): CKKS
+6. [Automorphism](https://arxiv.org/abs/2109.05371)
 
 # Research
 |Design|Scope|Venue|Year|
