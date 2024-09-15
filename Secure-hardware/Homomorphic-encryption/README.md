@@ -53,7 +53,8 @@ Fast bootstrapping/bit-level schemes:
 3. [ModDown](https://dl.acm.org/doi/abs/10.1007/978-3-030-10970-7_16)
 4. [keyswitching](https://dl.acm.org/doi/10.1007/978-3-030-40186-3_16): CKKS
 5. [Decomp](https://dl.acm.org/doi/10.1007/978-3-030-40186-3_16): CKKS
-6. [Automorphism](https://arxiv.org/abs/2109.05371)
+6. [keyswitching inner product](https://dl.acm.org/doi/10.1007/978-3-030-40186-3_16): CKKS
+7. [Automorphism](https://arxiv.org/abs/2109.05371)
 
 # Research
 |Design|Scope|Venue|Year|
